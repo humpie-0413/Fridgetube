@@ -1,0 +1,602 @@
+[
+  {
+    "name": "배추",
+    "aliases": ["통배추", "절임배추", "napa cabbage"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "무",
+    "aliases": ["무우", "단무지", "daikon", "radish"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "양파",
+    "aliases": ["onion"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "대파",
+    "aliases": ["파", "쪽파", "green onion", "Welsh onion"],
+    "category": "채소",
+    "default_unit": "줌"
+  },
+  {
+    "name": "마늘",
+    "aliases": ["통마늘", "garlic"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "생강",
+    "aliases": ["생강편", "ginger"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "고추",
+    "aliases": ["청양고추", "홍고추", "풋고추", "chili pepper"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "감자",
+    "aliases": ["potato"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "당근",
+    "aliases": ["carrot"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "시금치",
+    "aliases": ["spinach"],
+    "category": "채소",
+    "default_unit": "줌"
+  },
+  {
+    "name": "콩나물",
+    "aliases": ["콩나물무침", "bean sprouts"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "숙주",
+    "aliases": ["숙주나물", "녹두나물", "mung bean sprouts"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "깻잎",
+    "aliases": ["perilla leaf", "들깻잎"],
+    "category": "채소",
+    "default_unit": "장"
+  },
+  {
+    "name": "부추",
+    "aliases": ["정구지", "chives", "Korean chives"],
+    "category": "채소",
+    "default_unit": "줌"
+  },
+  {
+    "name": "애호박",
+    "aliases": ["호박", "zucchini", "Korean zucchini"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "오이",
+    "aliases": ["cucumber"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "양배추",
+    "aliases": ["cabbage"],
+    "category": "채소",
+    "default_unit": "g"
+  },
+  {
+    "name": "미나리",
+    "aliases": ["water parsley", "Korean parsley"],
+    "category": "채소",
+    "default_unit": "줌"
+  },
+  {
+    "name": "쑥갓",
+    "aliases": ["chrysanthemum greens", "crown daisy"],
+    "category": "채소",
+    "default_unit": "줌"
+  },
+  {
+    "name": "청경채",
+    "aliases": ["bok choy", "pak choi"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "파프리카",
+    "aliases": ["bell pepper", "피망"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "브로콜리",
+    "aliases": ["broccoli"],
+    "category": "채소",
+    "default_unit": "개"
+  },
+  {
+    "name": "삼겹살",
+    "aliases": ["돼지 삼겹살", "pork belly"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "목살",
+    "aliases": ["돼지 목살", "pork shoulder"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "소고기",
+    "aliases": ["쇠고기", "한우", "beef"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "닭고기",
+    "aliases": ["chicken", "통닭"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "돼지고기",
+    "aliases": ["pork", "돼지"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "소갈비",
+    "aliases": ["갈비", "beef short ribs", "beef ribs"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "돼지갈비",
+    "aliases": ["pork ribs", "돼지 갈비살"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "닭가슴살",
+    "aliases": ["chicken breast"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "닭날개",
+    "aliases": ["chicken wing", "닭봉"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "소불고기용",
+    "aliases": ["불고기", "불고기용 소고기", "beef bulgogi"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "다진돼지고기",
+    "aliases": ["다진 돼지", "돼지 다짐육", "ground pork"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "다진소고기",
+    "aliases": ["다진 소고기", "소 다짐육", "ground beef"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "베이컨",
+    "aliases": ["bacon"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "소시지",
+    "aliases": ["sausage", "비엔나소시지"],
+    "category": "육류",
+    "default_unit": "개"
+  },
+  {
+    "name": "햄",
+    "aliases": ["ham", "슬라이스햄"],
+    "category": "육류",
+    "default_unit": "g"
+  },
+  {
+    "name": "새우",
+    "aliases": ["shrimp", "prawn", "중하", "대하"],
+    "category": "해산물",
+    "default_unit": "g"
+  },
+  {
+    "name": "오징어",
+    "aliases": ["squid", "한치"],
+    "category": "해산물",
+    "default_unit": "개"
+  },
+  {
+    "name": "조개",
+    "aliases": ["clam", "바지락", "모시조개"],
+    "category": "해산물",
+    "default_unit": "g"
+  },
+  {
+    "name": "멸치",
+    "aliases": ["국물멸치", "볶음멸치", "anchovy"],
+    "category": "해산물",
+    "default_unit": "g"
+  },
+  {
+    "name": "고등어",
+    "aliases": ["mackerel"],
+    "category": "해산물",
+    "default_unit": "개"
+  },
+  {
+    "name": "갈치",
+    "aliases": ["hairtail", "cutlassfish"],
+    "category": "해산물",
+    "default_unit": "개"
+  },
+  {
+    "name": "꽃게",
+    "aliases": ["게", "blue crab", "crab"],
+    "category": "해산물",
+    "default_unit": "개"
+  },
+  {
+    "name": "전복",
+    "aliases": ["abalone"],
+    "category": "해산물",
+    "default_unit": "개"
+  },
+  {
+    "name": "미역",
+    "aliases": ["미역줄기", "sea mustard", "wakame"],
+    "category": "해조류",
+    "default_unit": "g"
+  },
+  {
+    "name": "다시마",
+    "aliases": ["kelp", "konbu"],
+    "category": "해조류",
+    "default_unit": "g"
+  },
+  {
+    "name": "김",
+    "aliases": ["구운김", "조미김", "seaweed", "nori"],
+    "category": "해조류",
+    "default_unit": "장"
+  },
+  {
+    "name": "고춧가루",
+    "aliases": ["빨간고춧가루", "고추가루", "red pepper powder"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "간장",
+    "aliases": ["국간장", "진간장", "양조간장", "soy sauce"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "된장",
+    "aliases": ["재래된장", "Korean soybean paste", "doenjang"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "고추장",
+    "aliases": ["Korean red pepper paste", "gochujang"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "참기름",
+    "aliases": ["sesame oil"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "들기름",
+    "aliases": ["perilla oil"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "식용유",
+    "aliases": ["식물성기름", "콩기름", "vegetable oil", "cooking oil"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "소금",
+    "aliases": ["꽃소금", "천일염", "salt"],
+    "category": "양념",
+    "default_unit": "작은술"
+  },
+  {
+    "name": "설탕",
+    "aliases": ["백설탕", "sugar"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "식초",
+    "aliases": ["현미식초", "사과식초", "vinegar"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "후추",
+    "aliases": ["검은후추", "흰후추", "black pepper", "pepper"],
+    "category": "양념",
+    "default_unit": "작은술"
+  },
+  {
+    "name": "다진마늘",
+    "aliases": ["마늘페이스트", "minced garlic"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "깨",
+    "aliases": ["참깨", "흑임자", "sesame seeds"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "맛술",
+    "aliases": ["조리술", "미향", "cooking wine"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "굴소스",
+    "aliases": ["oyster sauce"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "쌈장",
+    "aliases": ["쌈 된장", "ssam sauce"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "올리브유",
+    "aliases": ["올리브오일", "엑스트라버진 올리브유", "olive oil"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "물엿",
+    "aliases": ["꿀물엿", "corn syrup", "starch syrup"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "매실액",
+    "aliases": ["매실청", "plum extract", "green plum syrup"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "카레가루",
+    "aliases": ["카레분말", "curry powder"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "미림",
+    "aliases": ["미린", "mirin"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "청주",
+    "aliases": ["정종", "rice wine", "sake"],
+    "category": "양념",
+    "default_unit": "큰술"
+  },
+  {
+    "name": "겨자",
+    "aliases": ["연겨자", "황겨자", "mustard"],
+    "category": "양념",
+    "default_unit": "작은술"
+  },
+  {
+    "name": "버터",
+    "aliases": ["무염버터", "가염버터", "butter"],
+    "category": "양념",
+    "default_unit": "g"
+  },
+  {
+    "name": "두부",
+    "aliases": ["순두부 아닌 두부", "firm tofu", "tofu"],
+    "category": "두부/콩류",
+    "default_unit": "모"
+  },
+  {
+    "name": "순두부",
+    "aliases": ["soft tofu", "silken tofu"],
+    "category": "두부/콩류",
+    "default_unit": "g"
+  },
+  {
+    "name": "유부",
+    "aliases": ["유부초밥용 유부", "aburaage", "fried tofu pouch"],
+    "category": "두부/콩류",
+    "default_unit": "장"
+  },
+  {
+    "name": "콩",
+    "aliases": ["메주콩", "백태", "soybeans"],
+    "category": "두부/콩류",
+    "default_unit": "g"
+  },
+  {
+    "name": "팥",
+    "aliases": ["붉은팥", "red beans", "adzuki beans"],
+    "category": "두부/콩류",
+    "default_unit": "g"
+  },
+  {
+    "name": "쌀",
+    "aliases": ["백미", "멥쌀", "white rice"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "찹쌀",
+    "aliases": ["글루티노스쌀", "glutinous rice", "sticky rice"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "밀가루",
+    "aliases": ["중력분", "박력분", "강력분", "flour", "all-purpose flour"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "당면",
+    "aliases": ["잡채면", "glass noodles", "sweet potato noodles"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "라면",
+    "aliases": ["라면사리", "instant noodles", "ramen"],
+    "category": "곡류",
+    "default_unit": "봉지"
+  },
+  {
+    "name": "떡",
+    "aliases": ["떡볶이떡", "가래떡", "rice cake"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "빵가루",
+    "aliases": ["생빵가루", "dried breadcrumbs", "breadcrumbs"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "국수",
+    "aliases": ["소면", "중면", "Korean noodles", "somyeon"],
+    "category": "곡류",
+    "default_unit": "g"
+  },
+  {
+    "name": "달걀",
+    "aliases": ["계란", "egg"],
+    "category": "달걀",
+    "default_unit": "개"
+  },
+  {
+    "name": "우유",
+    "aliases": ["milk", "전지우유"],
+    "category": "유제품",
+    "default_unit": "ml"
+  },
+  {
+    "name": "치즈",
+    "aliases": ["슬라이스치즈", "모짜렐라치즈", "cheese"],
+    "category": "유제품",
+    "default_unit": "장"
+  },
+  {
+    "name": "크림치즈",
+    "aliases": ["cream cheese"],
+    "category": "유제품",
+    "default_unit": "g"
+  },
+  {
+    "name": "생크림",
+    "aliases": ["휘핑크림", "heavy cream", "whipping cream"],
+    "category": "유제품",
+    "default_unit": "ml"
+  },
+  {
+    "name": "요거트",
+    "aliases": ["플레인요거트", "yogurt", "Greek yogurt"],
+    "category": "유제품",
+    "default_unit": "g"
+  },
+  {
+    "name": "표고버섯",
+    "aliases": ["건표고", "shiitake mushroom"],
+    "category": "버섯",
+    "default_unit": "개"
+  },
+  {
+    "name": "팽이버섯",
+    "aliases": ["enoki mushroom"],
+    "category": "버섯",
+    "default_unit": "봉지"
+  },
+  {
+    "name": "새송이버섯",
+    "aliases": ["왕송이버섯", "king oyster mushroom"],
+    "category": "버섯",
+    "default_unit": "개"
+  },
+  {
+    "name": "양송이버섯",
+    "aliases": ["button mushroom", "white mushroom"],
+    "category": "버섯",
+    "default_unit": "개"
+  },
+  {
+    "name": "레몬",
+    "aliases": ["lemon"],
+    "category": "과일",
+    "default_unit": "개"
+  },
+  {
+    "name": "땅콩",
+    "aliases": ["peanut", "낙화생"],
+    "category": "견과류",
+    "default_unit": "g"
+  },
+  {
+    "name": "어묵",
+    "aliases": ["오뎅", "fish cake", "fishcake"],
+    "category": "가공식품",
+    "default_unit": "g"
+  },
+  {
+    "name": "스팸",
+    "aliases": ["런천미트", "spam", "luncheon meat"],
+    "category": "가공식품",
+    "default_unit": "캔"
+  },
+  {
+    "name": "참치캔",
+    "aliases": ["참치", "canned tuna", "tuna"],
+    "category": "가공식품",
+    "default_unit": "캔"
+  }
+]

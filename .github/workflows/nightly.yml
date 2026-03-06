@@ -1,0 +1,29 @@
+name: Nightly Batch
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # UTC 08:00 = KST 17:00 = PT 00:00
+  workflow_dispatch:
+
+jobs:
+  index-and-cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: cd backend && pip install -e .
+      - name: Cleanup expired data
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+        run: cd backend && python -m cli.index_channels --cleanup-only
+      - name: Run channel indexing
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: cd backend && python -m cli.index_channels --limit 200

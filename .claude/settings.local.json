@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(ls /c/Python*)",
+      "Read(//c/Users/성민재/AppData/Local/Programs/**)",
+      "Read(//c/Program Files/**)",
+      "Bash(winget:*)",
+      "Bash(export:*)",
+      "Bash(mkdir:*)",
+      "Bash(export:)",
+      "Bash(wsl:*)",
+      "Bash(curl:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(ls:*)",
+      "Bash(do:*)"
+    ]
+  }
+}

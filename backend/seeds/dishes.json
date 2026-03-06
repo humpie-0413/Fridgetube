@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "김치찌개",
+    "aliases": ["김찌", "kimchi jjigae", "kimchi stew"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["김치", "돼지고기", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "된장찌개",
+    "aliases": ["된장국", "doenjang jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["된장", "두부", "애호박", "대파", "버섯"]
+  },
+  {
+    "name": "순두부찌개",
+    "aliases": ["순두부", "sundubu jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["순두부", "바지락", "고춧가루", "달걀", "대파"]
+  },
+  {
+    "name": "부대찌개",
+    "aliases": ["부대국", "존슨탕", "budae jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["스팸", "소시지", "김치", "라면사리", "떡"]
+  },
+  {
+    "name": "청국장찌개",
+    "aliases": ["청국장", "cheonggukjang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["청국장", "두부", "대파", "김치", "고춧가루"]
+  },
+  {
+    "name": "참치찌개",
+    "aliases": ["참치국", "canned tuna jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["참치캔", "김치", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "동태찌개",
+    "aliases": ["동태국", "dongtae jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["동태", "무", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "알탕",
+    "aliases": ["명란탕", "altang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["명란", "무", "대파", "고춧가루", "두부"]
+  },
+  {
+    "name": "해물찌개",
+    "aliases": ["해물탕", "seafood jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["오징어", "새우", "바지락", "두부", "대파"]
+  },
+  {
+    "name": "꽃게찌개",
+    "aliases": ["꽃게국", "crab jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["꽃게", "두부", "애호박", "대파", "고춧가루"]
+  },
+  {
+    "name": "두부찌개",
+    "aliases": ["두부국", "tofu jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["두부", "돼지고기", "대파", "고춧가루", "된장"]
+  },
+  {
+    "name": "콩비지찌개",
+    "aliases": ["비지찌개", "kongbiji jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["콩비지", "김치", "돼지고기", "대파"]
+  },
+  {
+    "name": "오징어찌개",
+    "aliases": ["오징어국", "squid jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["오징어", "두부", "호박", "대파", "고춧가루"]
+  },
+  {
+    "name": "돼지고기찌개",
+    "aliases": ["돼지찌개", "pork jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["돼지고기", "된장", "두부", "대파", "애호박"]
+  },
+  {
+    "name": "소고기찌개",
+    "aliases": ["소찌개", "beef jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["소고기", "된장", "두부", "대파", "버섯"]
+  },
+  {
+    "name": "버섯찌개",
+    "aliases": ["mushroom jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["버섯", "두부", "대파", "된장", "애호박"]
+  },
+  {
+    "name": "황태찌개",
+    "aliases": ["황태국", "dried pollack jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["황태", "무", "두부", "대파", "달걀"]
+  },
+  {
+    "name": "곱창찌개",
+    "aliases": ["내장찌개", "gopchang jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["곱창", "김치", "대파", "고춧가루", "된장"]
+  },
+  {
+    "name": "감자탕",
+    "aliases": ["뼈해장국", "gamjatang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["돼지등뼈", "감자", "우거지", "대파", "고춧가루"]
+  },
+  {
+    "name": "낙지찌개",
+    "aliases": ["낙지국", "octopus jjigae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["낙지", "두부", "콩나물", "대파", "고춧가루"]
+  },
+  {
+    "name": "미역국",
+    "aliases": ["미역탕", "seaweed soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["미역", "소고기", "참기름", "간장", "마늘"]
+  },
+  {
+    "name": "콩나물국",
+    "aliases": ["콩나물해장국", "beansprout soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["콩나물", "대파", "마늘", "소금", "고춧가루"]
+  },
+  {
+    "name": "떡국",
+    "aliases": ["떡만두국", "rice cake soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["떡국떡", "소고기", "달걀", "대파", "마늘"]
+  },
+  {
+    "name": "갈비탕",
+    "aliases": ["소갈비탕", "galbitang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["소갈비", "무", "대파", "마늘", "당면"]
+  },
+  {
+    "name": "설렁탕",
+    "aliases": ["사골탕", "seolleongtang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["사골", "양지", "대파", "소금", "깍두기"]
+  },
+  {
+    "name": "삼계탕",
+    "aliases": ["닭백숙", "samgyetang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["닭", "인삼", "찹쌀", "마늘", "대추"]
+  },
+  {
+    "name": "육개장",
+    "aliases": ["육개장국", "yukgaejang"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["소고기", "고사리", "숙주", "대파", "고춧가루"]
+  },
+  {
+    "name": "해장국",
+    "aliases": ["선지해장국", "haejang guk"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["선지", "콩나물", "우거지", "대파", "고춧가루"]
+  },
+  {
+    "name": "북어국",
+    "aliases": ["황태국", "bukeo guk"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["북어", "두부", "달걀", "대파", "참기름"]
+  },
+  {
+    "name": "만둣국",
+    "aliases": ["만두국", "mandu guk"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["만두", "소고기육수", "달걀", "대파", "김"]
+  },
+  {
+    "name": "순대국",
+    "aliases": ["순대국밥", "sundae guk"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["순대", "내장", "대파", "고춧가루", "된장"]
+  },
+  {
+    "name": "우거지국",
+    "aliases": ["우거지탕", "cabbage soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["우거지", "된장", "두부", "대파", "마늘"]
+  },
+  {
+    "name": "시금치국",
+    "aliases": ["시금치된장국", "spinach soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["시금치", "된장", "두부", "대파", "마늘"]
+  },
+  {
+    "name": "근대국",
+    "aliases": ["근대된장국"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["근대", "된장", "두부", "대파", "마늘"]
+  },
+  {
+    "name": "아욱국",
+    "aliases": ["아욱된장국"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["아욱", "된장", "새우", "대파", "마늘"]
+  },
+  {
+    "name": "무국",
+    "aliases": ["무된장국", "radish soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["무", "소고기", "대파", "마늘", "간장"]
+  },
+  {
+    "name": "홍합탕",
+    "aliases": ["홍합국", "mussel soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["홍합", "대파", "마늘", "청양고추", "소금"]
+  },
+  {
+    "name": "조개탕",
+    "aliases": ["바지락탕", "clam soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["바지락", "대파", "마늘", "청양고추", "소금"]
+  },
+  {
+    "name": "소고기무국",
+    "aliases": ["소무국", "beef radish soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["소고기", "무", "대파", "간장", "참기름"]
+  },
+  {
+    "name": "뼈다귀해장국",
+    "aliases": ["도가니탕", "bone soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["돼지뼈", "우거지", "대파", "고춧가루", "된장"]
+  },
+  {
+    "name": "추어탕",
+    "aliases": ["미꾸라지탕", "loach soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["미꾸라지", "우거지", "된장", "고춧가루", "산초"]
+  },
+  {
+    "name": "복어탕",
+    "aliases": ["복국", "puffer fish soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["복어", "콩나물", "미나리", "대파", "마늘"]
+  },
+  {
+    "name": "꼬리곰탕",
+    "aliases": ["꼬리탕", "oxtail soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["소꼬리", "대파", "마늘", "소금", "깍두기"]
+  },
+  {
+    "name": "닭볶음탕",
+    "aliases": ["닭도리탕", "braised spicy chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["닭", "감자", "당근", "대파", "고춧가루"]
+  },
+  {
+    "name": "대구탕",
+    "aliases": ["대구매운탕", "cod soup"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["대구", "무", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "제육볶음",
+    "aliases": ["돼지불고기", "spicy pork stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["돼지고기", "고추장", "대파", "양파", "마늘"]
+  },
+  {
+    "name": "소불고기",
+    "aliases": ["불고기", "bulgogi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["소고기", "간장", "설탕", "배", "참기름"]
+  },
+  {
+    "name": "잡채",
+    "aliases": ["당면잡채", "japchae"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["당면", "소고기", "시금치", "당근", "간장"]
+  },
+  {
+    "name": "떡볶이",
+    "aliases": ["떡뽁이", "tteokbokki"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["떡", "어묵", "고추장", "대파", "설탕"]
+  },
+  {
+    "name": "어묵볶음",
+    "aliases": ["오뎅볶음", "fish cake stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["어묵", "고추장", "대파", "간장", "설탕"]
+  },
+  {
+    "name": "멸치볶음",
+    "aliases": ["잔멸치볶음", "dried anchovy stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["멸치", "간장", "설탕", "참기름", "마늘"]
+  },
+  {
+    "name": "감자볶음",
+    "aliases": ["감자채볶음", "potato stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["감자", "대파", "간장", "참기름", "고추"]
+  },
+  {
+    "name": "고추잡채",
+    "aliases": ["피망잡채", "pepper stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["피망", "소고기", "간장", "참기름", "마늘"]
+  },
+  {
+    "name": "오징어볶음",
+    "aliases": ["오징어채볶음", "squid stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["오징어", "고추장", "양파", "대파", "마늘"]
+  },
+  {
+    "name": "낙지볶음",
+    "aliases": ["낙지철판볶음", "spicy octopus stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["낙지", "고추장", "양파", "대파", "마늘"]
+  },
+  {
+    "name": "버섯볶음",
+    "aliases": ["표고버섯볶음", "mushroom stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["버섯", "간장", "마늘", "참기름", "대파"]
+  },
+  {
+    "name": "애호박볶음",
+    "aliases": ["호박볶음", "zucchini stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["애호박", "새우젓", "마늘", "대파", "참기름"]
+  },
+  {
+    "name": "두부김치",
+    "aliases": ["두부볶음김치", "tofu with kimchi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["두부", "김치", "돼지고기", "참기름", "대파"]
+  },
+  {
+    "name": "콩나물볶음",
+    "aliases": ["숙주볶음", "beansprout stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["콩나물", "대파", "마늘", "참기름", "고추"]
+  },
+  {
+    "name": "시래기볶음",
+    "aliases": ["무청볶음", "dried radish greens stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["시래기", "된장", "마늘", "참기름", "들기름"]
+  },
+  {
+    "name": "돼지갈비볶음",
+    "aliases": ["갈비볶음", "pork rib stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["돼지갈비", "간장", "설탕", "마늘", "참기름"]
+  },
+  {
+    "name": "닭갈비",
+    "aliases": ["춘천닭갈비", "dak galbi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["닭", "고추장", "떡", "양배추", "고구마"]
+  },
+  {
+    "name": "순대볶음",
+    "aliases": ["철판순대볶음", "sundae stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["순대", "떡볶이떡", "어묵", "고추장", "대파"]
+  },
+  {
+    "name": "삼겹살구이",
+    "aliases": ["삼겹살", "grilled pork belly"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["삼겹살", "상추", "마늘", "쌈장", "김치"]
+  },
+  {
+    "name": "갈비구이",
+    "aliases": ["소갈비", "grilled beef ribs"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["소갈비", "간장", "배", "마늘", "참기름"]
+  },
+  {
+    "name": "불고기",
+    "aliases": ["소불고기", "bulgogi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["소고기", "간장", "설탕", "배", "참기름"]
+  },
+  {
+    "name": "고등어구이",
+    "aliases": ["고등어소금구이", "grilled mackerel"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["고등어", "소금", "무", "청양고추", "간장"]
+  },
+  {
+    "name": "장어구이",
+    "aliases": ["뱀장어구이", "grilled eel"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["장어", "간장", "설탕", "마늘", "참기름"]
+  },
+  {
+    "name": "돼지목살구이",
+    "aliases": ["목살", "grilled pork neck"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["돼지목살", "마늘", "쌈장", "상추", "소금"]
+  },
+  {
+    "name": "닭구이",
+    "aliases": ["통닭구이", "grilled chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["닭", "간장", "마늘", "참기름", "후추"]
+  },
+  {
+    "name": "꽁치구이",
+    "aliases": ["꽁치소금구이", "grilled pacific saury"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["꽁치", "소금", "무", "간장", "레몬"]
+  },
+  {
+    "name": "오리구이",
+    "aliases": ["오리불고기", "grilled duck"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["오리고기", "간장", "마늘", "파", "참기름"]
+  },
+  {
+    "name": "조개구이",
+    "aliases": ["조개소금구이", "grilled clam"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["조개", "버터", "마늘", "소금", "레몬"]
+  },
+  {
+    "name": "새우구이",
+    "aliases": ["왕새우구이", "grilled shrimp"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["새우", "버터", "마늘", "소금", "레몬"]
+  },
+  {
+    "name": "갈치구이",
+    "aliases": ["갈치소금구이", "grilled cutlassfish"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["갈치", "소금", "무", "간장", "청양고추"]
+  },
+  {
+    "name": "떡갈비",
+    "aliases": ["갈비패티구이", "tteokgalbi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["소고기", "돼지고기", "간장", "설탕", "참기름"]
+  },
+  {
+    "name": "두루치기",
+    "aliases": ["돼지두루치기", "duruchigi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["돼지고기", "김치", "고추장", "대파", "마늘"]
+  },
+  {
+    "name": "갈비찜",
+    "aliases": ["소갈비찜", "braised beef ribs"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["소갈비", "무", "당근", "간장", "설탕"]
+  },
+  {
+    "name": "계란찜",
+    "aliases": ["달걀찜", "steamed eggs"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["달걀", "멸치육수", "새우젓", "대파", "당근"]
+  },
+  {
+    "name": "고등어조림",
+    "aliases": ["고등어무조림", "braised mackerel"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["고등어", "무", "간장", "고춧가루", "마늘"]
+  },
+  {
+    "name": "두부조림",
+    "aliases": ["두부양념조림", "braised tofu"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["두부", "간장", "고춧가루", "대파", "마늘"]
+  },
+  {
+    "name": "돼지갈비찜",
+    "aliases": ["돼지찜", "braised pork ribs"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["돼지갈비", "감자", "당근", "간장", "설탕"]
+  },
+  {
+    "name": "감자조림",
+    "aliases": ["알감자조림", "braised potatoes"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["감자", "간장", "설탕", "참기름", "마늘"]
+  },
+  {
+    "name": "연근조림",
+    "aliases": ["연근간장조림", "braised lotus root"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["연근", "간장", "설탕", "참기름", "통깨"]
+  },
+  {
+    "name": "닭찜",
+    "aliases": ["찜닭", "braised chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["닭", "간장", "당면", "감자", "당근"]
+  },
+  {
+    "name": "아귀찜",
+    "aliases": ["아구찜", "braised monkfish"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["아귀", "콩나물", "미나리", "고춧가루", "마늘"]
+  },
+  {
+    "name": "오삼불고기",
+    "aliases": ["오징어삼겹살볶음", "squid pork belly stir-fry"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["오징어", "삼겹살", "고추장", "양파", "대파"]
+  },
+  {
+    "name": "꽃게찜",
+    "aliases": ["게찜", "steamed crab"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["꽃게", "마늘", "대파", "간장", "고추"]
+  },
+  {
+    "name": "가지조림",
+    "aliases": ["가지양념조림", "braised eggplant"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["가지", "간장", "고춧가루", "마늘", "참기름"]
+  },
+  {
+    "name": "김치전",
+    "aliases": ["김치부침개", "kimchi pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["김치", "부침가루", "대파", "돼지고기", "고추"]
+  },
+  {
+    "name": "파전",
+    "aliases": ["해물파전", "green onion pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["대파", "부침가루", "달걀", "오징어", "새우"]
+  },
+  {
+    "name": "감자전",
+    "aliases": ["감자부침개", "potato pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["감자", "부침가루", "소금", "식용유", "달걀"]
+  },
+  {
+    "name": "동그랑땡",
+    "aliases": ["고기전", "meat patty"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["돼지고기", "두부", "당근", "달걀", "부침가루"]
+  },
+  {
+    "name": "녹두전",
+    "aliases": ["빈대떡", "mung bean pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["녹두", "돼지고기", "김치", "숙주", "고추"]
+  },
+  {
+    "name": "해물파전",
+    "aliases": ["해파전", "seafood green onion pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["해산물", "대파", "부침가루", "달걀", "간장"]
+  },
+  {
+    "name": "새우튀김",
+    "aliases": ["튀김새우", "fried shrimp"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["새우", "튀김가루", "달걀", "빵가루", "식용유"]
+  },
+  {
+    "name": "돈까스",
+    "aliases": ["돈카츠", "pork cutlet"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["돼지고기", "빵가루", "달걀", "식용유", "소스"]
+  },
+  {
+    "name": "두부전",
+    "aliases": ["두부부침", "tofu pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["두부", "달걀", "부침가루", "간장", "참기름"]
+  },
+  {
+    "name": "고추전",
+    "aliases": ["풋고추전", "pepper pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["풋고추", "돼지고기", "두부", "달걀", "부침가루"]
+  },
+  {
+    "name": "애호박전",
+    "aliases": ["호박전", "zucchini pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["애호박", "달걀", "부침가루", "소금", "간장"]
+  },
+  {
+    "name": "꼴뚜기볶음",
+    "aliases": ["꼴뚜기채볶음"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["꼴뚜기", "고추장", "마늘", "대파", "참기름"]
+  },
+  {
+    "name": "닭튀김",
+    "aliases": ["후라이드치킨", "fried chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["닭", "튀김가루", "식용유", "소금", "후추"]
+  },
+  {
+    "name": "오징어튀김",
+    "aliases": ["오징어링튀김", "fried squid rings"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["오징어", "튀김가루", "달걀", "식용유", "소금"]
+  },
+  {
+    "name": "시금치나물",
+    "aliases": ["시금치무침", "seasoned spinach"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["시금치", "마늘", "참기름", "간장", "통깨"]
+  },
+  {
+    "name": "콩나물무침",
+    "aliases": ["콩나물나물", "seasoned beansprouts"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["콩나물", "마늘", "참기름", "소금", "통깨"]
+  },
+  {
+    "name": "오이무침",
+    "aliases": ["오이냉채", "seasoned cucumber"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["오이", "고춧가루", "마늘", "참기름", "식초"]
+  },
+  {
+    "name": "미나리무침",
+    "aliases": ["미나리나물", "seasoned water parsley"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["미나리", "마늘", "고춧가루", "참기름", "통깨"]
+  },
+  {
+    "name": "도라지무침",
+    "aliases": ["도라지나물", "seasoned bellflower root"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["도라지", "마늘", "참기름", "소금", "고춧가루"]
+  },
+  {
+    "name": "고사리나물",
+    "aliases": ["고사리무침", "seasoned bracken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["고사리", "간장", "마늘", "참기름", "들기름"]
+  },
+  {
+    "name": "숙주나물",
+    "aliases": ["숙주무침", "seasoned mung bean sprouts"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["숙주", "마늘", "참기름", "소금", "통깨"]
+  },
+  {
+    "name": "가지나물",
+    "aliases": ["가지무침", "seasoned eggplant"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["가지", "마늘", "참기름", "간장", "통깨"]
+  },
+  {
+    "name": "취나물",
+    "aliases": ["취무침", "seasoned aster"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["취나물", "된장", "마늘", "참기름", "들기름"]
+  },
+  {
+    "name": "무생채",
+    "aliases": ["무무침", "seasoned radish"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["무", "고춧가루", "마늘", "식초", "설탕"]
+  },
+  {
+    "name": "파래무침",
+    "aliases": ["파래나물"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["파래", "마늘", "참기름", "소금", "식초"]
+  },
+  {
+    "name": "두릅나물",
+    "aliases": ["두릅무침"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["두릅", "고추장", "식초", "설탕", "통깨"]
+  },
+  {
+    "name": "냉이나물",
+    "aliases": ["냉이무침"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["냉이", "된장", "마늘", "참기름", "통깨"]
+  },
+  {
+    "name": "부추무침",
+    "aliases": ["부추겉절이"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["부추", "고춧가루", "마늘", "간장", "참기름"]
+  },
+  {
+    "name": "깻잎무침",
+    "aliases": ["깻잎양념무침"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "무침",
+    "typical_ingredients": ["깻잎", "간장", "마늘", "참기름", "통깨"]
+  },
+  {
+    "name": "김치볶음밥",
+    "aliases": ["김치밥", "kimchi fried rice"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["김치", "밥", "돼지고기", "달걀", "참기름"]
+  },
+  {
+    "name": "비빔밥",
+    "aliases": ["돌솥비빔밥", "bibimbap"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "나물", "고추장", "달걀", "참기름"]
+  },
+  {
+    "name": "볶음밥",
+    "aliases": ["계란볶음밥", "fried rice"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["밥", "달걀", "대파", "간장", "참기름"]
+  },
+  {
+    "name": "김밥",
+    "aliases": ["충무김밥", "gimbap"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "김", "당근", "시금치", "달걀"]
+  },
+  {
+    "name": "주먹밥",
+    "aliases": ["삼각주먹밥", "rice ball"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "참기름", "소금", "김", "참치"]
+  },
+  {
+    "name": "덮밥",
+    "aliases": ["소고기덮밥", "rice bowl"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "소고기", "간장", "달걀", "대파"]
+  },
+  {
+    "name": "쌈밥",
+    "aliases": ["보쌈밥", "ssambap"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "상추", "쌈장", "마늘", "김치"]
+  },
+  {
+    "name": "콩나물밥",
+    "aliases": ["콩나물영양밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "콩나물", "간장", "참기름", "달걀"]
+  },
+  {
+    "name": "솥밥",
+    "aliases": ["돌솥밥", "pot rice"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "버섯", "견과류", "간장", "참기름"]
+  },
+  {
+    "name": "영양밥",
+    "aliases": ["오색밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "찹쌀", "밤", "대추", "잣"]
+  },
+  {
+    "name": "오므라이스",
+    "aliases": ["오므라이스볶음밥", "omurice"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "달걀", "케첩", "당근", "양파"]
+  },
+  {
+    "name": "참치마요덮밥",
+    "aliases": ["참치덮밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["참치", "마요네즈", "밥", "오이", "간장"]
+  },
+  {
+    "name": "쌀국수볶음",
+    "aliases": ["쌀면국수볶음"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["쌀국수면", "숙주", "대파", "간장", "참기름"]
+  },
+  {
+    "name": "칼국수",
+    "aliases": ["손칼국수", "knife-cut noodles"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["칼국수면", "바지락", "애호박", "대파", "마늘"]
+  },
+  {
+    "name": "잔치국수",
+    "aliases": ["멸치국수", "banquet noodles"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소면", "멸치육수", "김치", "달걀", "대파"]
+  },
+  {
+    "name": "냉면",
+    "aliases": ["물냉면", "평양냉면", "naengmyeon"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["냉면면", "육수", "오이", "배", "무"]
+  },
+  {
+    "name": "비빔국수",
+    "aliases": ["비빔면", "spicy cold noodles"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소면", "고추장", "식초", "오이", "참기름"]
+  },
+  {
+    "name": "수제비",
+    "aliases": ["밀가루수제비", "hand-torn noodles"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "멸치육수", "감자", "애호박", "대파"]
+  },
+  {
+    "name": "라볶이",
+    "aliases": ["라면떡볶이"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["라면", "떡", "어묵", "고추장", "대파"]
+  },
+  {
+    "name": "공기밥",
+    "aliases": [],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀"]
+  },
+  {
+    "name": "메밀국수",
+    "aliases": ["냉메밀"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["메밀면", "쯔유", "대파", "와사비", "무"]
+  },
+  {
+    "name": "불닭",
+    "aliases": ["매운닭볶음", "fire chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["닭", "고추장", "고춧가루", "간장", "설탕"]
+  },
+  {
+    "name": "닭강정",
+    "aliases": ["양념치킨", "sweet spicy chicken"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["닭", "고추장", "물엿", "간장", "마늘"]
+  },
+  {
+    "name": "족발",
+    "aliases": ["돼지족발", "braised pork feet"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지족발", "간장", "설탕", "마늘", "생강"]
+  },
+  {
+    "name": "보쌈",
+    "aliases": ["수육", "bossam"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지고기", "배추", "쌈장", "굴", "무"]
+  },
+  {
+    "name": "순대",
+    "aliases": ["당면순대", "blood sausage"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["순대", "선지", "당면", "부추", "소금"]
+  },
+  {
+    "name": "김치",
+    "aliases": ["배추김치", "kimchi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["배추", "고춧가루", "마늘", "생강", "젓갈"]
+  },
+  {
+    "name": "깍두기",
+    "aliases": ["무김치", "kkakdugi"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["무", "고춧가루", "마늘", "새우젓", "생강"]
+  },
+  {
+    "name": "열무김치",
+    "aliases": ["열무물김치"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["열무", "고춧가루", "마늘", "부추", "소금"]
+  },
+  {
+    "name": "백김치",
+    "aliases": ["물김치"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["배추", "무", "마늘", "생강", "소금"]
+  },
+  {
+    "name": "겉절이",
+    "aliases": ["배추겉절이"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["배추", "고춧가루", "마늘", "참기름", "설탕"]
+  },
+  {
+    "name": "잡채밥",
+    "aliases": ["당면덮밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["당면", "소고기", "시금치", "간장", "밥"]
+  },
+  {
+    "name": "순대국밥",
+    "aliases": ["순대국"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["순대", "내장", "밥", "대파", "된장"]
+  },
+  {
+    "name": "국밥",
+    "aliases": ["소국밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["소고기", "밥", "대파", "된장", "마늘"]
+  },
+  {
+    "name": "소시지볶음",
+    "aliases": ["비엔나볶음"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["소시지", "양파", "케첩", "마늘", "대파"]
+  },
+  {
+    "name": "해물전골",
+    "aliases": ["해물냄비"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찌개",
+    "typical_ingredients": ["새우", "오징어", "조개", "두부", "채소"]
+  },
+  {
+    "name": "라면",
+    "aliases": ["봉지라면", "ramen"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["라면", "달걀", "대파", "고춧가루", "마늘"]
+  },
+  {
+    "name": "파김치",
+    "aliases": ["쪽파김치"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쪽파", "고춧가루", "마늘", "액젓", "설탕"]
+  },
+  {
+    "name": "묵사발",
+    "aliases": ["도토리묵"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["도토리묵", "간장", "고춧가루", "참기름", "대파"]
+  },
+  {
+    "name": "닭발볶음",
+    "aliases": ["매운닭발"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["닭발", "고추장", "고춧가루", "마늘", "설탕"]
+  },
+  {
+    "name": "곱창볶음",
+    "aliases": ["철판곱창"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["곱창", "고추장", "양파", "대파", "마늘"]
+  },
+  {
+    "name": "생선전",
+    "aliases": ["동태전", "fish pancake"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "전",
+    "typical_ingredients": ["동태", "달걀", "부침가루", "소금", "간장"]
+  },
+  {
+    "name": "계란말이",
+    "aliases": ["달걀말이", "egg roll"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["달걀", "당근", "대파", "소금", "식용유"]
+  },
+  {
+    "name": "잡곡밥",
+    "aliases": ["오곡밥"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀", "잡곡", "팥", "콩", "찹쌀"]
+  },
+  {
+    "name": "매운탕",
+    "aliases": ["생선매운탕"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["생선", "무", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "들깨탕",
+    "aliases": ["들깨칼국수"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["들깨", "버섯", "칼국수", "대파", "마늘"]
+  },
+  {
+    "name": "장조림",
+    "aliases": ["소고기장조림"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["소고기", "간장", "설탕", "마늘", "고추"]
+  },
+  {
+    "name": "오리볶음",
+    "aliases": ["오리불고기"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["오리고기", "고추장", "양파", "대파", "마늘"]
+  },
+  {
+    "name": "황태찜",
+    "aliases": ["황태요리"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["황태", "고추장", "마늘", "참기름", "대파"]
+  },
+  {
+    "name": "미더덕찜",
+    "aliases": ["미더덕요리"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["미더덕", "고추장", "대파", "마늘", "참기름"]
+  },
+  {
+    "name": "소갈비찜",
+    "aliases": ["갈비찜"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["소갈비", "무", "당근", "간장", "배"]
+  },
+  {
+    "name": "돼지수육",
+    "aliases": ["수육"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지고기", "생강", "마늘", "된장", "소금"]
+  },
+  {
+    "name": "닭볶음",
+    "aliases": ["닭매운볶음"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["닭", "고추장", "감자", "양파", "대파"]
+  },
+  {
+    "name": "불족발",
+    "aliases": ["매운족발"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지족발", "고추장", "마늘", "대파", "설탕"]
+  },
+  {
+    "name": "전복죽",
+    "aliases": ["전복요리"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["전복", "쌀", "참기름", "간장", "소금"]
+  },
+  {
+    "name": "호박죽",
+    "aliases": ["단호박죽"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["단호박", "찹쌀", "설탕", "소금", "물"]
+  },
+  {
+    "name": "팥죽",
+    "aliases": ["동지팥죽"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["팥", "찹쌀새알", "설탕", "소금", "물"]
+  },
+  {
+    "name": "고구마죽",
+    "aliases": ["고구마요리"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["고구마", "찹쌀", "설탕", "소금", "물"]
+  },
+  {
+    "name": "삼겹살김치찜",
+    "aliases": ["김치삼겹살"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "찜",
+    "typical_ingredients": ["삼겹살", "김치", "두부", "대파", "고춧가루"]
+  },
+  {
+    "name": "떡만두",
+    "aliases": ["떡만둣국"],
+    "cuisine_type": "한식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["떡", "만두", "육수", "달걀", "대파"]
+  },
+  {
+    "name": "짜장면",
+    "aliases": ["자장면", "jajangmyeon"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["중화면", "춘장", "돼지고기", "양파", "감자"]
+  },
+  {
+    "name": "짬뽕",
+    "aliases": ["해물짬뽕", "jjamppong"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["중화면", "해산물", "채소", "고춧가루", "돼지고기"]
+  },
+  {
+    "name": "탕수육",
+    "aliases": ["찹쌀탕수육", "sweet sour pork"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지고기", "전분", "식초", "설탕", "채소"]
+  },
+  {
+    "name": "마파두부",
+    "aliases": ["마파토우푸", "mapo tofu"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["두부", "돼지고기", "두반장", "마늘", "대파"]
+  },
+  {
+    "name": "깐풍기",
+    "aliases": ["깐풍닭", "gong bao chicken"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["닭", "고추", "마늘", "식초", "설탕"]
+  },
+  {
+    "name": "유린기",
+    "aliases": ["닭튀김소스", "yu ling chicken"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["닭", "대파", "간장", "설탕", "식초"]
+  },
+  {
+    "name": "양고기볶음",
+    "aliases": ["양꼬치볶음"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["양고기", "마늘", "쿠민", "고추", "대파"]
+  },
+  {
+    "name": "팔보채",
+    "aliases": ["팔보재", "stir-fried seafood and vegetables"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["해산물", "채소", "굴소스", "전분", "참기름"]
+  },
+  {
+    "name": "양장피",
+    "aliases": ["양장피잡채", "jelly noodle salad"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["양장피", "해산물", "채소", "겨자", "식초"]
+  },
+  {
+    "name": "깐쇼새우",
+    "aliases": ["칠리새우", "chili shrimp"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["새우", "케첩", "고추", "마늘", "설탕"]
+  },
+  {
+    "name": "마라탕",
+    "aliases": ["마라훠궈", "mala hot pot"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "탕",
+    "typical_ingredients": ["마라소스", "두부", "채소", "버섯", "고기"]
+  },
+  {
+    "name": "훠궈",
+    "aliases": ["샤브샤브", "hot pot"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["육수", "고기", "채소", "버섯", "두부"]
+  },
+  {
+    "name": "칭자오로쓰",
+    "aliases": ["고추잡채", "피망소고기볶음", "qing jiao rou si"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["피망", "소고기", "굴소스", "간장", "마늘"]
+  },
+  {
+    "name": "해파리냉채",
+    "aliases": ["해파리초무침"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["해파리", "오이", "겨자", "식초", "설탕"]
+  },
+  {
+    "name": "군만두",
+    "aliases": ["야키교자", "pan-fried dumplings"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["만두피", "돼지고기", "부추", "배추", "마늘"]
+  },
+  {
+    "name": "찐만두",
+    "aliases": ["딤섬", "steamed dumplings"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["만두피", "새우", "돼지고기", "부추", "생강"]
+  },
+  {
+    "name": "물만두",
+    "aliases": ["물교자", "boiled dumplings"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["만두피", "돼지고기", "배추", "부추", "생강"]
+  },
+  {
+    "name": "춘권",
+    "aliases": ["스프링롤", "spring roll"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["춘권피", "돼지고기", "숙주", "당근", "버섯"]
+  },
+  {
+    "name": "짜춘권",
+    "aliases": ["짜장춘권"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["춘장", "채소", "고기", "춘권피", "기름"]
+  },
+  {
+    "name": "동파육",
+    "aliases": ["삼겹살조림", "dongpo pork"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["삼겹살", "간장", "설탕", "생강", "대파"]
+  },
+  {
+    "name": "마라샹궈",
+    "aliases": ["마라볶음"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["마라소스", "고기", "채소", "두부", "버섯"]
+  },
+  {
+    "name": "꽃빵",
+    "aliases": ["화권"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "설탕", "효모", "기름", "소금"]
+  },
+  {
+    "name": "자장소스",
+    "aliases": ["춘장소스"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["춘장", "돼지고기", "양파", "감자", "설탕"]
+  },
+  {
+    "name": "토마토계란볶음",
+    "aliases": ["번가초란"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["토마토", "달걀", "설탕", "소금", "기름"]
+  },
+  {
+    "name": "굴소스소고기볶음",
+    "aliases": ["소고기굴소스"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["소고기", "굴소스", "채소", "마늘", "전분"]
+  },
+  {
+    "name": "딤섬",
+    "aliases": ["하가우"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["만두피", "새우", "부추", "생강", "참기름"]
+  },
+  {
+    "name": "팬케이크",
+    "aliases": ["핫케이크", "pancake"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "달걀", "우유", "버터", "설탕"]
+  },
+  {
+    "name": "중화짬뽕",
+    "aliases": ["해물짬뽕"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["중화면", "오징어", "새우", "채소", "고추기름"]
+  },
+  {
+    "name": "마라소고기볶음",
+    "aliases": ["마라우육"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["소고기", "마라소스", "채소", "마늘", "대파"]
+  },
+  {
+    "name": "새우볶음밥",
+    "aliases": ["하인볶음밥"],
+    "cuisine_type": "중식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["새우", "밥", "달걀", "대파", "간장"]
+  },
+  {
+    "name": "라조육",
+    "aliases": ["라조기"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지고기", "고추", "마늘", "두반장", "대파"]
+  },
+  {
+    "name": "붕어빵",
+    "aliases": ["타이야키"],
+    "cuisine_type": "중식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "팥소", "달걀", "설탕", "버터"]
+  },
+  {
+    "name": "크림파스타",
+    "aliases": ["알프레도", "cream pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "생크림", "버터", "파마산치즈", "마늘"]
+  },
+  {
+    "name": "토마토파스타",
+    "aliases": ["아라비아타", "tomato pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "토마토소스", "마늘", "올리브유", "바질"]
+  },
+  {
+    "name": "까르보나라",
+    "aliases": ["카르보나라", "carbonara"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "베이컨", "달걀", "파마산치즈", "후추"]
+  },
+  {
+    "name": "봉골레파스타",
+    "aliases": ["조개파스타", "vongole pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "바지락", "올리브유", "마늘", "화이트와인"]
+  },
+  {
+    "name": "페스토파스타",
+    "aliases": ["바질페스토", "pesto pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "바질페스토", "파마산치즈", "잣", "올리브유"]
+  },
+  {
+    "name": "로제파스타",
+    "aliases": ["크림토마토파스타", "rose pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "토마토소스", "생크림", "베이컨", "마늘"]
+  },
+  {
+    "name": "명란파스타",
+    "aliases": ["명란크림파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "명란", "생크림", "버터", "마늘"]
+  },
+  {
+    "name": "해물파스타",
+    "aliases": ["씨푸드파스타", "seafood pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "새우", "오징어", "홍합", "토마토소스"]
+  },
+  {
+    "name": "버섯파스타",
+    "aliases": ["트러플파스타", "mushroom pasta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "버섯", "생크림", "마늘", "파마산치즈"]
+  },
+  {
+    "name": "시금치파스타",
+    "aliases": ["시금치크림파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "시금치", "생크림", "마늘", "파마산치즈"]
+  },
+  {
+    "name": "닭가슴살파스타",
+    "aliases": ["치킨파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "닭가슴살", "생크림", "마늘", "파마산치즈"]
+  },
+  {
+    "name": "라자냐",
+    "aliases": ["라자냐파스타", "lasagna"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["라자냐면", "토마토소스", "다진고기", "베샤멜소스", "치즈"]
+  },
+  {
+    "name": "뇨키",
+    "aliases": ["감자뇨키", "gnocchi"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["감자", "밀가루", "달걀", "파마산치즈", "버터"]
+  },
+  {
+    "name": "리가토니",
+    "aliases": ["리가토니파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["리가토니", "소시지", "토마토소스", "마늘", "올리브유"]
+  },
+  {
+    "name": "오레키에테",
+    "aliases": ["오레키에테파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["오레키에테", "브로콜리", "안초비", "마늘", "올리브유"]
+  },
+  {
+    "name": "스테이크",
+    "aliases": ["안심스테이크", "ribeye steak"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소고기", "버터", "마늘", "로즈마리", "소금"]
+  },
+  {
+    "name": "리조또",
+    "aliases": ["버섯리조또", "risotto"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀", "육수", "파마산치즈", "버터", "양파"]
+  },
+  {
+    "name": "피자",
+    "aliases": ["마르게리타", "pizza"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["피자도우", "토마토소스", "모차렐라치즈", "올리브", "바질"]
+  },
+  {
+    "name": "그라탕",
+    "aliases": ["채소그라탕", "gratin"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["감자", "베샤멜소스", "치즈", "버터", "양파"]
+  },
+  {
+    "name": "시저샐러드",
+    "aliases": ["시저드레싱샐러드", "caesar salad"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["로메인", "파마산치즈", "크루통", "시저드레싱", "베이컨"]
+  },
+  {
+    "name": "그리크샐러드",
+    "aliases": ["그릭샐러드", "greek salad"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["토마토", "오이", "올리브", "페타치즈", "적양파"]
+  },
+  {
+    "name": "카프레제샐러드",
+    "aliases": ["카프레제", "caprese salad"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["토마토", "모차렐라치즈", "바질", "올리브유", "발사믹"]
+  },
+  {
+    "name": "콥샐러드",
+    "aliases": ["cobb salad"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["닭가슴살", "베이컨", "달걀", "아보카도", "토마토"]
+  },
+  {
+    "name": "니수아즈샐러드",
+    "aliases": ["니스샐러드"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["참치", "올리브", "달걀", "토마토", "감자"]
+  },
+  {
+    "name": "양송이수프",
+    "aliases": ["머쉬룸스프", "mushroom soup"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["양송이", "생크림", "버터", "양파", "밀가루"]
+  },
+  {
+    "name": "토마토수프",
+    "aliases": ["토마토크림수프", "tomato soup"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["토마토", "생크림", "버터", "양파", "바질"]
+  },
+  {
+    "name": "미네스트로네",
+    "aliases": ["채소수프", "minestrone"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["토마토", "채소", "파스타", "콩", "올리브유"]
+  },
+  {
+    "name": "클램차우더",
+    "aliases": ["조개수프", "clam chowder"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["조개", "감자", "생크림", "베이컨", "양파"]
+  },
+  {
+    "name": "프렌치어니언수프",
+    "aliases": ["양파수프", "french onion soup"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["양파", "쇠고기육수", "치즈", "바게트", "버터"]
+  },
+  {
+    "name": "함박스테이크",
+    "aliases": ["함박", "hamburger steak"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["다진고기", "양파", "빵가루", "달걀", "데미글라스소스"]
+  },
+  {
+    "name": "닭가슴살스테이크",
+    "aliases": ["치킨스테이크"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["닭가슴살", "올리브유", "마늘", "허브", "소금"]
+  },
+  {
+    "name": "연어스테이크",
+    "aliases": ["연어구이"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["연어", "버터", "레몬", "딜", "소금"]
+  },
+  {
+    "name": "새우리조또",
+    "aliases": ["씨푸드리조또"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀", "새우", "화이트와인", "파마산치즈", "버터"]
+  },
+  {
+    "name": "버섯리조또",
+    "aliases": ["포르치니리조또"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀", "포르치니버섯", "화이트와인", "파마산치즈", "버터"]
+  },
+  {
+    "name": "치킨피자",
+    "aliases": ["BBQ치킨피자"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["피자도우", "닭고기", "모차렐라치즈", "BBQ소스", "피망"]
+  },
+  {
+    "name": "마르게리타피자",
+    "aliases": ["기본피자", "margherita pizza"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["피자도우", "토마토소스", "모차렐라치즈", "바질", "올리브유"]
+  },
+  {
+    "name": "포카치아",
+    "aliases": ["허브빵", "focaccia"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "올리브유", "로즈마리", "소금", "효모"]
+  },
+  {
+    "name": "브루스케타",
+    "aliases": ["토마토브루스케타", "bruschetta"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["바게트", "토마토", "바질", "올리브유", "마늘"]
+  },
+  {
+    "name": "키쉬",
+    "aliases": ["에그타르트", "quiche"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["파이도우", "달걀", "생크림", "치즈", "베이컨"]
+  },
+  {
+    "name": "코케트",
+    "aliases": ["크로켓", "croquette"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["감자", "빵가루", "달걀", "버터", "식용유"]
+  },
+  {
+    "name": "니온스테이크",
+    "aliases": ["양파스테이크"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소고기", "양파", "버터", "마늘", "허브"]
+  },
+  {
+    "name": "감바스알아히요",
+    "aliases": ["감바스", "gambas al ajillo"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["새우", "마늘", "올리브유", "고추", "파슬리"]
+  },
+  {
+    "name": "보로네제",
+    "aliases": ["볼로네제", "bolognese"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "다진소고기", "토마토소스", "양파", "당근"]
+  },
+  {
+    "name": "아마트리치아나",
+    "aliases": ["아마트리치아나파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "판체타", "토마토소스", "페코리노", "페페론치노"]
+  },
+  {
+    "name": "트러플파스타",
+    "aliases": ["트러플오일파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "트러플오일", "파마산치즈", "버터", "마늘"]
+  },
+  {
+    "name": "감자수프",
+    "aliases": ["비시수아즈"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["감자", "생크림", "버터", "양파", "치킨육수"]
+  },
+  {
+    "name": "콜리플라워수프",
+    "aliases": ["꽃양배추수프"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["콜리플라워", "생크림", "버터", "양파", "치즈"]
+  },
+  {
+    "name": "치킨알프레도",
+    "aliases": ["크림치킨파스타"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "파스타",
+    "typical_ingredients": ["파스타", "닭가슴살", "생크림", "파마산치즈", "버터"]
+  },
+  {
+    "name": "코들드에그",
+    "aliases": ["반숙달걀"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["달걀", "버터", "소금", "허브", "크림"]
+  },
+  {
+    "name": "에그베네딕트",
+    "aliases": ["베네딕트에그", "eggs benedict"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["달걀", "잉글리시머핀", "베이컨", "홀란다이즈소스", "버터"]
+  },
+  {
+    "name": "클럽샌드위치",
+    "aliases": ["BLT샌드위치", "club sandwich"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["식빵", "닭가슴살", "베이컨", "토마토", "양상추"]
+  },
+  {
+    "name": "참치샐러드",
+    "aliases": ["참치마요샐러드"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["참치", "마요네즈", "양파", "오이", "셀러리"]
+  },
+  {
+    "name": "포테이토샐러드",
+    "aliases": ["감자샐러드"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "샐러드",
+    "typical_ingredients": ["감자", "마요네즈", "달걀", "오이", "양파"]
+  },
+  {
+    "name": "와플",
+    "aliases": ["벨기에와플", "waffle"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "달걀", "버터", "우유", "설탕"]
+  },
+  {
+    "name": "프렌치토스트",
+    "aliases": ["계란빵", "french toast"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["식빵", "달걀", "우유", "버터", "설탕"]
+  },
+  {
+    "name": "카레라이스",
+    "aliases": ["일본카레", "curry rice"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "카레",
+    "typical_ingredients": ["카레가루", "감자", "당근", "양파", "소고기"]
+  },
+  {
+    "name": "인도카레",
+    "aliases": ["치킨티카마살라"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "카레",
+    "typical_ingredients": ["카레소스", "닭고기", "토마토", "요거트", "향신료"]
+  },
+  {
+    "name": "햄버거",
+    "aliases": ["버거", "hamburger"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["패티", "번", "양상추", "토마토", "치즈"]
+  },
+  {
+    "name": "타코",
+    "aliases": ["멕시칸타코", "taco"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["또르티야", "소고기", "살사소스", "아보카도", "사워크림"]
+  },
+  {
+    "name": "나초",
+    "aliases": ["나초칩", "nachos"],
+    "cuisine_type": "양식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["나초칩", "치즈소스", "살사", "과카몰리", "사워크림"]
+  },
+  {
+    "name": "오코노미야키",
+    "aliases": ["일본식부침개", "okonomiyaki"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "양배추", "돼지고기", "달걀", "마요네즈"]
+  },
+  {
+    "name": "라멘",
+    "aliases": ["일본라면", "ramen"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["중화면", "돈코츠육수", "차슈", "달걀", "파"]
+  },
+  {
+    "name": "우동",
+    "aliases": ["가케우동", "udon"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["우동면", "다시육수", "대파", "어묵", "유부"]
+  },
+  {
+    "name": "초밥",
+    "aliases": ["스시", "sushi"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "생선", "와사비", "간장", "생강"]
+  },
+  {
+    "name": "돈부리",
+    "aliases": ["덮밥", "donburi"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "소고기", "달걀", "간장", "미림"]
+  },
+  {
+    "name": "가츠동",
+    "aliases": ["카츠동", "katsudon"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["돼지까스", "달걀", "양파", "간장", "밥"]
+  },
+  {
+    "name": "규동",
+    "aliases": ["소고기덮밥", "gyudon"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소고기", "양파", "달걀", "간장", "밥"]
+  },
+  {
+    "name": "타코야키",
+    "aliases": ["문어빵", "takoyaki"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밀가루", "문어", "달걀", "다시", "마요네즈"]
+  },
+  {
+    "name": "일본카레",
+    "aliases": ["카레", "Japanese curry"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "카레",
+    "typical_ingredients": ["카레루", "감자", "당근", "양파", "소고기"]
+  },
+  {
+    "name": "사바미소",
+    "aliases": ["고등어미소조림"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["고등어", "된장", "미림", "간장", "생강"]
+  },
+  {
+    "name": "스키야키",
+    "aliases": ["일본전골"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소고기", "두부", "대파", "표고버섯", "실곤약"]
+  },
+  {
+    "name": "샤부샤부",
+    "aliases": ["일본샤브샤브"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["소고기", "채소", "두부", "폰즈소스", "참깨소스"]
+  },
+  {
+    "name": "메밀소바",
+    "aliases": ["자루소바", "soba"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["메밀면", "쯔유", "대파", "와사비", "노리"]
+  },
+  {
+    "name": "텐동",
+    "aliases": ["튀김덮밥", "tendon"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["밥", "새우튀김", "텐동소스", "무", "달걀"]
+  },
+  {
+    "name": "야끼소바",
+    "aliases": ["볶음면", "yakisoba"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["소바면", "돼지고기", "양배추", "야끼소바소스", "생강"]
+  },
+  {
+    "name": "된장국미소시루",
+    "aliases": ["미소시루", "miso soup"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "국",
+    "typical_ingredients": ["된장", "두부", "미역", "다시", "대파"]
+  },
+  {
+    "name": "야키토리",
+    "aliases": ["닭꼬치", "yakitori"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "구이",
+    "typical_ingredients": ["닭", "간장", "미림", "설탕", "파"]
+  },
+  {
+    "name": "교자",
+    "aliases": ["야키교자", "gyoza"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["만두피", "돼지고기", "부추", "마늘", "생강"]
+  },
+  {
+    "name": "가라아게",
+    "aliases": ["일본식치킨", "karaage"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["닭", "간장", "마늘", "생강", "전분"]
+  },
+  {
+    "name": "온센타마고",
+    "aliases": ["온수달걀"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["달걀", "다시", "간장", "미림"]
+  },
+  {
+    "name": "아게다시두부",
+    "aliases": ["튀긴두부"],
+    "cuisine_type": "일식",
+    "pattern_suffix": "튀김",
+    "typical_ingredients": ["두부", "전분", "다시", "간장", "미림"]
+  },
+  {
+    "name": "이나리스시",
+    "aliases": ["유부초밥"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["유부", "밥", "식초", "설탕", "소금"]
+  },
+  {
+    "name": "팟타이",
+    "aliases": ["태국볶음면", "pad thai"],
+    "cuisine_type": "동남아",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀국수", "새우", "달걀", "숙주", "땅콩"]
+  },
+  {
+    "name": "포",
+    "aliases": ["쌀국수", "pho", "베트남쌀국수"],
+    "cuisine_type": "동남아",
+    "pattern_suffix": null,
+    "typical_ingredients": ["쌀국수면", "소고기", "숙주", "고수", "라임"]
+  },
+  {
+    "name": "똠양꿍",
+    "aliases": ["태국새우수프", "tom yum goong"],
+    "cuisine_type": "동남아",
+    "pattern_suffix": "스프",
+    "typical_ingredients": ["새우", "레몬그라스", "갈랑갈", "라임", "코코넛밀크"]
+  },
+  {
+    "name": "나시고렝",
+    "aliases": ["인도네시아볶음밥", "nasi goreng"],
+    "cuisine_type": "동남아",
+    "pattern_suffix": "볶음",
+    "typical_ingredients": ["밥", "달걀", "새우", "케찹마니스", "삼발"]
+  },
+  {
+    "name": "그린카레",
+    "aliases": ["태국그린카레", "green curry"],
+    "cuisine_type": "동남아",
+    "pattern_suffix": "카레",
+    "typical_ingredients": ["코코넛밀크", "그린카레페이스트", "닭고기", "가지", "바질"]
+  },
+  {
+    "name": "미소라멘",
+    "aliases": ["미소국물라멘", "miso ramen"],
+    "cuisine_type": "일식",
+    "pattern_suffix": null,
+    "typical_ingredients": ["중화면", "미소된장", "차슈", "옥수수", "버터"]
+  },
+  {
+    "name": "로제카레",
+    "aliases": ["크림카레"],
+    "cuisine_type": "양식",
+    "pattern_suffix": "카레",
+    "typical_ingredients": ["카레루", "생크림", "토마토소스", "닭고기", "양파"]
+  },
+  {
+    "name": "버터장조림",
+    "aliases": ["버터간장조림"],
+    "cuisine_type": "한식",
+    "pattern_suffix": "조림",
+    "typical_ingredients": ["소고기", "버터", "간장", "설탕", "마늘"]
+  }
+]

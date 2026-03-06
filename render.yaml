@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: fridgetube-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: REDIS_URL
+        sync: false
+      - key: YOUTUBE_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: SENTRY_DSN
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: "https://fridgetube.pages.dev"
+      - key: TRANSCRIPT_BETA
+        value: "false"
+      - key: ENVIRONMENT
+        value: "production"

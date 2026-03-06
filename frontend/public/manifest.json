@@ -1,0 +1,21 @@
+{
+  "name": "FridgeTube",
+  "short_name": "냉장고튜브",
+  "description": "냉장고 재료로 YouTube 인기 레시피를 찾아주는 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
