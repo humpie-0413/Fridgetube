@@ -71,6 +71,62 @@ function formatAmount(amount: number | null, unit: string | null): string {
   return unit ? `${display}${unit}` : display;
 }
 
+// ── YouTube 임베드 (에러 152 대응) ──
+
+function YouTubeEmbed({ videoId }: { videoId: string }) {
+  const [embedFailed, setEmbedFailed] = useState(false);
+  const [origin, setOrigin] = useState("");
+
+  useEffect(() => {
+    setOrigin(window.location.origin);
+  }, []);
+
+  if (embedFailed) {
+    return (
+      <div className="flex flex-col items-center justify-center gap-3 bg-gray-900 p-8 text-center" style={{ aspectRatio: "16/9" }}>
+        <svg className="h-10 w-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636" />
+        </svg>
+        <p className="text-sm text-gray-300">이 영상은 외부 재생이 제한되어 있습니다</p>
+        <a
+          href={`https://www.youtube.com/watch?v=${videoId}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-lg bg-red-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-red-700"
+        >
+          YouTube에서 보기
+        </a>
+      </div>
+    );
+  }
+
+  const embedUrl = origin
+    ? `https://www.youtube.com/embed/${videoId}?origin=${encodeURIComponent(origin)}&enablejsapi=1&rel=0`
+    : `https://www.youtube.com/embed/${videoId}?rel=0`;
+
+  return (
+    <iframe
+      src={embedUrl}
+      referrerPolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowFullScreen
+      className="h-full w-full"
+      title="YouTube video"
+      onError={() => setEmbedFailed(true)}
+      onLoad={(e) => {
+        try {
+          const frame = e.currentTarget;
+          if (frame.contentDocument === null && frame.src.includes("youtube.com")) {
+            setEmbedFailed(true);
+          }
+        } catch {
+          // cross-origin access denied is expected for successful embeds
+        }
+      }}
+    />
+  );
+}
+
 // ── 메인 컴포넌트 ──
 
 export default function RecipeContent() {
@@ -176,14 +232,8 @@ export default function RecipeContent() {
         </Link>
 
         {/* 영상은 보여주기 */}
-        <div className="mb-6 overflow-hidden rounded-xl bg-black" style={{ aspectRatio: "16/9" }}>
-          <iframe
-            src={`https://www.youtube.com/embed/${videoId}`}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            className="h-full w-full"
-            title="YouTube video"
-          />
+        <div className="mb-6 overflow-hidden rounded-xl bg-black">
+          <YouTubeEmbed videoId={videoId} />
         </div>
 
         <div className="rounded-xl border border-gray-200 bg-white p-6 text-center">
@@ -233,14 +283,8 @@ export default function RecipeContent() {
       </button>
 
       {/* YouTube 임베드 */}
-      <div className="mb-6 overflow-hidden rounded-xl bg-black" style={{ aspectRatio: "16/9" }}>
-        <iframe
-          src={`https://www.youtube.com/embed/${videoId}`}
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-          className="h-full w-full"
-          title="YouTube video"
-        />
+      <div className="mb-6 overflow-hidden rounded-xl bg-black">
+        <YouTubeEmbed videoId={videoId} />
       </div>
 
       {/* 요리명 + 배너 */}
